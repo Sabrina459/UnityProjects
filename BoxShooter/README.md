@@ -1,4 +1,4 @@
-FPS (First Person Shooter) - there is the timer and three types of boxes. Green boxes add you 5 scores, yellow ones reduces 5 seconds of time, whites add you 5 seconds, and black one is a bomb. It kills all of the targets around in some radius.
+FPS (First Person Shooter) - there is the timer and three types of boxes. Green boxes add you 5 scores, yellow ones reduces 5 seconds of time, whites add you 5 seconds, and black one is a bomb. It kills all of the targets around in some radius. Targets are moving and rotating.
 
 
 ![Снимок экрана (20)](https://user-images.githubusercontent.com/62243357/130142065-cab45682-9afc-494f-bfc0-084073da1161.png)
