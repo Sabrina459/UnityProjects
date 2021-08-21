@@ -11,3 +11,4 @@ There are some UnityProjects to train and improve programming skills.
 
 ## The Box Shooter.
 
+![Снимок экрана (20)](https://user-images.githubusercontent.com/62243357/130142065-cab45682-9afc-494f-bfc0-084073da1161.png)
