@@ -47,17 +47,7 @@ public class CharacterController2D : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.W) && isGrounded)
         {
             r2d.velocity = new Vector2(r2d.velocity.x, jumpHeight);
-            if ((Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D)) && (isGrounded || Mathf.Abs(r2d.velocity.x) > 0.01f))
-            {
-                moveDirection = Input.GetKey(KeyCode.A) ? -1 : 1;
-            }
-            else
-            {
-                if (isGrounded || r2d.velocity.magnitude < 0.01f)
-                {
-                    moveDirection = 0;
-                }
-            }
+            
         }
         // Movement controls
         if ((Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D)) && (isGrounded || Mathf.Abs(r2d.velocity.x) > 0.01f))
