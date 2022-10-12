@@ -1,3 +1,9 @@
+##Лабораторна робота 2
+#Виконала: 
+#студентка 4 курсу ФІОТ 
+#групи ІВ-91
+#Сайко Сабріна 
+
 It is a game with a ball which catches the coins and run away from cubes. There are 2 levels, two different types of coins and two canvases (menues). One is after losing the game and another is after winning. 
 
 ![Снимок экрана (10)](https://user-images.githubusercontent.com/62243357/130136310-ba445fd0-da90-483a-8de4-01f2e54fd76b.png)
